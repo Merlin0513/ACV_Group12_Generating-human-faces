@@ -22,7 +22,7 @@ SRGAN is a type of GAN that is used for super-resolution tasks, such as increasi
 
 ## Results
 
-![Generated Face](/generated face.png)
+![Generated Face](./generated face.png)
 
 The DCGAN model is able to generate realistic human faces that closely resemble the faces in the CelebA dataset. The SRGAN model is able to generate high-resolution images from low-resolution inputs, resulting in much sharper and more detailed faces.
 
