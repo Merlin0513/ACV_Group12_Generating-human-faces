@@ -6,7 +6,7 @@ This project uses Deep Convolutional Generative Adversarial Networks (DCGAN) and
 
 The dataset used in this project DCGAN part is the [CelebA dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), which consists of over 200,000 celebrity images. The images are preprocessed and resized to 64x64 pixels for use in training the DCGAN model.
 
-The dataset used in this project SRGAN part as ground truth image is the [DIV2K dataset]https://data.vision.ee.ethz.ch/cvl/DIV2K/). It consists of 800 high-quality images with a resolution of 2K (i.e., 2048x1080 pixels), which are divided into a training set of 800 images and a validation set of 100 images, which is used in Discriminator in SRGAN.
+The dataset used in this project SRGAN part as ground truth image is the [DIV2K dataset](https://data.vision.ee.ethz.ch/cvl/DIV2K/). It consists of 800 high-quality images with a resolution of 2K (i.e., 2048x1080 pixels), which are divided into a training set of 800 images and a validation set of 100 images, which is used in Discriminator in SRGAN.
 
 ## Models
 
